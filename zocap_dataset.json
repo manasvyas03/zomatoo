@@ -1,0 +1,37 @@
+[
+  {
+    "BaseURL": "https://media.githubusercontent.com/",
+    "RelativeURL": "media/manasvyas03/zomatoo/refs/heads/main/Dataset/customers.csv",
+    "FileName": "customers.csv"
+  },
+  {
+    "BaseURL": "https://media.githubusercontent.com/",
+    "RelativeURL": "media/manasvyas03/zomatoo/refs/heads/main/Dataset/menu_items.csv",
+    "FileName": "menu_items.csv"
+  },
+  {
+    "BaseURL": "https://media.githubusercontent.com/",
+    "RelativeURL": "media/manasvyas03/zomatoo/refs/heads/main/Dataset/operations.csv",
+    "FileName": "operations.csv"
+  },
+  {
+    "BaseURL": "https://media.githubusercontent.com/",
+    "RelativeURL": "media/manasvyas03/zomatoo/refs/heads/main/Dataset/order_items.csv",
+    "FileName": "order_items.csv"
+  },
+  {
+    "BaseURL": "https://media.githubusercontent.com/",
+    "RelativeURL": "media/manasvyas03/zomatoo/refs/heads/main/Dataset/orders.csv",
+    "FileName": "orders.csv.csv"
+  },
+  {
+    "BaseURL": "https://media.githubusercontent.com/",
+    "RelativeURL": "media/manasvyas03/zomatoo/refs/heads/main/Dataset/restaurants.csv",
+    "FileName": "restaurants.csv"
+  },
+  {
+    "BaseURL": "https://media.githubusercontent.com/",
+    "RelativeURL": "media/manasvyas03/zomatoo/refs/heads/main/Dataset/revenue.csv",
+    "FileName": "revenue.csv"
+  }
+]
